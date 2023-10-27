@@ -6,8 +6,8 @@ server:
 spring:
     datasource:
         url: jdbc:postgresql://localhost:5432/customer
-        username: amigoscode
-        password: password
+        username: 
+        password: 
     jpa:
         hibernate:
             ddl-auto: validate
